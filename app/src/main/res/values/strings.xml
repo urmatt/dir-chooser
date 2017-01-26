@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DirChoose</string>
+    <string name="message_permission_needs">Please grand the storage permission in application settings.</string>
+
+</resources>
